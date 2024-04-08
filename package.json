@@ -1,0 +1,14 @@
+{
+  "name": "fisher",
+  "version": "1.0.0",
+  "description": "\"A social media app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sakshi",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
