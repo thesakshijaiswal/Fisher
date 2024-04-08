@@ -4,7 +4,8 @@
   "description": "\"A social media app\"",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "author": "sakshi",
   "license": "ISC",
